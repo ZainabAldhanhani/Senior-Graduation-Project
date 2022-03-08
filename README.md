@@ -21,3 +21,9 @@ pi@raspberrypi:~$ sudo apt-get upgrade
   Go to Preferences --> Raspberry Pi Configuration --> interfaces 
 
   Enable the SSH and VNC
+
+>useful videos:
+
+https://youtu.be/BpJCAafw2qE
+
+https://youtu.be/y45hsd2AOpw
