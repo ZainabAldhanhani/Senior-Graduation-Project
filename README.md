@@ -17,4 +17,4 @@ next step:
 
 go to Preferences --> Raspberry Pi Configuration --> interfaces 
 
-enble the SSH and VNC
+enable the SSH and VNC
