@@ -8,7 +8,9 @@
 
 Download the Pi Imager Here:https://www.raspberrypi.com/software/
 
-64 Bit Raspberry pi OS:https://forums.raspberrypi.com/viewtopic.php?f=117&t=275370
+Download Raspberry Pi OS (Legacy)
+![Raspberry-Pi-Imager-Legacy](https://user-images.githubusercontent.com/101204152/159136057-79d3e627-c520-4322-ad59-d01f6b9725e3.jpg)
+
 
 >in linux command: 
 ```
@@ -20,7 +22,7 @@ pi@raspberrypi:~$ sudo apt-get upgrade
 
   Go to Preferences --> Raspberry Pi Configuration --> interfaces 
 
-  Enable the SSH and VNC
+  Enable the SSH, VNC, and Camera
 
 >useful videos:
 
