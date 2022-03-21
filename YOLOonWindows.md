@@ -28,6 +28,7 @@ In Windows:
 - Start (button) -> All programs -> CMake -> CMake (gui) ->
 
 - [look at image](https://habrastorage.org/webt/pz/s1/uu/pzs1uu4heb7vflfcjqn-lxy-aqu.jpeg) In CMake: Enter input path to the darknet Source, and output path to the Binaries -> Configure (button) -> Optional platform for generator: `x64`  -> Finish -> Generate -> Open Project ->
+  - note: disable CUDA if you do not have NVIDIA GPU. 
 
 - in MS Visual Studio: Select: x64 and Release -> Build -> Build solution
 
